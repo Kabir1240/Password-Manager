@@ -1,2 +1,2 @@
 # Password-Manager
-Password manager and generator, keeps password on your local PC
+Password manager and generator app
